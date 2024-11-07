@@ -1,4 +1,4 @@
-{
+Kentraiyle {
   "rewrites":[
     {"source": "/.uncache", "destination": "https://metrics.lecoq.io/.uncache"},
     {"source": "/.requests", "destination": "https://metrics.lecoq.io/.requests"},
